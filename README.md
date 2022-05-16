@@ -37,7 +37,7 @@ function addThought(){
 ### HTML 📙
 <li>I use HTML the most since I work on websites.</li>
 <li>I started learning HTML as the start of my coing journey.</li>
-<li>I used <a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G">YouTube course</a> to learn HTML & CSS.</li>
+<li>I used a <a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G">YouTube course</a> to learn HTML & CSS.</li>
 <li>I like making websites and that's the side I'm heading.</li>
 
 ### CSS 📘
