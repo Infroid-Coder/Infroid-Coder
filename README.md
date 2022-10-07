@@ -36,7 +36,7 @@ function addThought(){
 
 ### HTML 📙
 <li>I use HTML the most since I work on websites.</li>
-<li>I started learning HTML as the start of my coing journey.</li>
+<li>I started learning HTML as the start of my coding journey.</li>
 <li>I used a <a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G">YouTube course</a> to learn HTML & CSS.</li>
 <li>I like making websites and that's the side I'm heading.</li>
 
@@ -44,7 +44,7 @@ function addThought(){
 <li>After HTML, what I mostly use is CSS.</li>
 <li>I use it to style my webpages accordingly.</li>
 <li>I like to use dark theme. So most of the time I use CSS to change the background to a dark colour or image.</li>
-<li>I like to use fonts I download from the web using <code>@font-face</code> rule.</li>
+<li>I like to use fonts I download from the web using the <code>@font-face</code> rule.</li>
 
 ### JavaScript 📗
 <li>I use JavaScript to add functions, alerts and style changing on different events.</li>
