@@ -2,10 +2,10 @@
 
 <!--# Hey, Welcome <img src="https://user-images.githubusercontent.com/86107234/133726160-55d06ced-045a-4ba5-9797-722284807a37.gif" width="40px">-->
 <br>
-<li>📙 I finshed learning <b>HTML, CSS</b></li>
-<li>📖 I'm currently learning <b>JavaScript</b></li>
+<li>📙 I have finshed learning <b>HTML, CSS, JS</b></li>
+<li>📖 I'm currently planning on learning <b>Node JS</b></li>
 <li>🗺️ I live in <b>Sri Lanka</b></li>
-<li>📝 I'm currently working on a <b>Website made with HTML, CSS and JavaScript</b></li>
+<li>📝 I'm currently working on a <b>JavaScript Toolkit</b></li>
 <hr>
 
 ## <div align="center">💝 I Love <code><𝙲𝚘𝚍𝚒𝚗𝚐/></code></div>
