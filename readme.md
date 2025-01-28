@@ -42,7 +42,7 @@ infroid_coder.sayHello();
 
 # Social Media
 
-| [Instagram](https://www.instagram.com/infroid_coder) | [Fiverr](https://www.fiverr.com/infroid_coder) | [Chess.com](https://www.chess.com/infroid_coder) |
+| [Instagram](https://www.instagram.com/infroid_coder) | [Fiverr](https://www.fiverr.com/infroid_coder) | [Chess.com](https://www.chess.com/member/infroid_coder) |
 ---------
 
 ----
