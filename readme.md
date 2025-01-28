@@ -2,22 +2,50 @@
 :wave: Hello World! :wave:
 </h1>
 
-I am a young programming enthusiast mainly interested in JavaScript as a language. I enjoy coding and I mainly like to code things that can help to make other people's work easier. I am trying everyday to learn more and get better.
+I am a young and aspiring programmer with experience on a variety of languages and tools like HTML, CSS, JavaScript, Python, React, RegEx etc. I enjoy creating solutions that empower and ensure a better future and make everyday life easier for everyone. 
 
-## Skills
+<hr>
 
-- HTML
-- CSS
-- Vanilla JS
-- Node JS
+```
+class InfroidCoder{
+    constructor(){
+        this.name = "Infroid Coder";
+        this.pronouns = "He/Him";
+        this.skills = ["HTML", "CSS", "JavaScript", "Node JS", "Python", "React"];
+        this.tools = [];
+        this.languages = ["Sinhala (si)", "English (en-gb)"]
+    }
+    
+    sayHello(){
+        console.log("Hello there, nice to see you!");
+    }
+}
+
+const infroid_coder = new InfroidCoder();
+infroid_coder.sayHello();
+```
 
 <hr>
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Infroid-Coder&show_icons=true&theme=radical)<br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Infroid-Coder&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)<br>
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Infroid-Coder&layout=compact&theme=radical)<br>
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=Infroid-Coder&theme=radical)
+# Github Trophies
 
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=Infroid-Coder&theme=chalk&column=4&margin-w=15&margin-h=15)
+
+# Github Stats
+
+![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Infroid-Coder&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Infroid-Coder&show_icons=true&theme=radical)
+
+<hr>
+
+# Social Media
+
+| [Instagram](https://www.instagram.com/infroid_coder) | [Fiverr](https://www.fiverr.com/infroid_coder) | [Chess.com](https://www.chess.com/infroid_coder) |
+---------
+
+----
+
+# Thank You!
 </div>
