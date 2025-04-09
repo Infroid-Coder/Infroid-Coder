@@ -11,7 +11,7 @@ class InfroidCoder{
     constructor(){
         this.name = "Infroid Coder";
         this.pronouns = "He/Him";
-        this.skills = ["HTML", "CSS", "JavaScript", "Node JS", "Python", "React"];
+        this.skills = ["HTML", "CSS", "JavaScript", "Node JS", "Python", "React", "C++"];
         this.tools = [];
         this.languages = ["Sinhala (si)", "English (en-gb)"]
     }
