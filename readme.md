@@ -12,7 +12,7 @@ class InfroidCoder{
         this.name = "Infroid Coder";
         this.pronouns = "He/Him";
         this.skills = ["HTML", "CSS", "JavaScript", "Node JS", "Python", "React", "C++"];
-        this.tools = [];
+        this.tools = ["VS Code", "Photoshop", "Github", "Netlify"];
         this.languages = ["Sinhala (si)", "English (en-gb)"]
     }
     
