@@ -1,0 +1,48 @@
+{
+    "ConsolePastel": {
+        "name": "ConsolePastel",
+        "desc": "ConsolePastel is a tool built using JavaScript which allows you to log text to the console in different colours and styles with the help of escape sequences.",
+        "technologies": [
+            "Node JS"
+        ],
+        "repo_link": "https://github.com/Infroid-Coder/ConsolePastel"
+    },
+    "ChessParse": {
+        "name": "ChessParse",
+        "desc": "ChessParse is a web app which fetches the ratings of any player on chess.com given their username. The rating info for all available time formats is listed.",
+        "technologies": [
+            "Node JS", "HTML", "CSS", "Vanilla JS"
+        ],
+        "img": "ChessParse.png",
+        "repo_link": "https://github.com/Infroid-Coder/ConsolePastel"
+    },
+    "PeththaScript": {
+        "name": "PeththaScript",
+        "desc": "PeththaScript is a meme language built using Node JS. It includes a few basic functions and very limited functionality with a custom syntax.",
+        "technologies": [
+            "JavaScript"
+        ],
+        "repo_link": "https://github.com/Infroid-Coder/ConsolePastel"
+    },
+    "LazarusChat": {
+        "name": "LazarusChat",
+        "desc": "LazarusChat is a WhatsApp chat export reader which takes the media included zips or text file exports from WhatsApp and presents it in a familiar chat interface.",
+        "technologies": [
+            "Vanilla JS", "CSS", "HTML", "JSZip"
+        ],
+        "img": "LazarusChat.png",
+        "repo_link": "https://github.com/Infroid-Coder/ConsolePastel",
+        "live_link": "https://lazarus-chat.netlify.app"
+    },
+    "Infroid Coder": {
+        "name": "Infroid Coder",
+        "desc": "The portfolio website for Infroid Coder. Built with only pure HTML, CSS and JS, this website was built to showcase details, projects and skills of Infroid Coder.",
+        "technologies": [
+            "CSS", "HTML", "Vanilla JS"
+        ],
+        "img": "InfroidCoder.png",
+        "img_position": "left",
+        "repo_link": "https://github.com/Infroid-Coder/Infroid-Coder",
+        "live_link": "https://infroid-coder.netlify.app"
+    }
+}
