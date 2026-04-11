@@ -44,5 +44,16 @@
         "img_position": "left",
         "repo_link": "https://github.com/Infroid-Coder/Infroid-Coder",
         "live_link": "https://infroid-coder.netlify.app"
+    },
+    "Moodio": {
+        "name": "Moodio",
+        "desc": "A mood-based fashion e-commerce concept built with pure HTML, CSS and JavaScript, featuring dynamic product rendering, filtering, search, and interactive UI elements.",
+        "technologies": [
+            "CSS", "Vanilla JS", "HTML"
+        ],
+        "img": "Moodio.png",
+        "img_position": "left",
+        "repo_link": "https://github.com/Infroid-Coder/Moodio",
+        "live_link": "https://moodio-fashion.netlify.app"
     }
 }
